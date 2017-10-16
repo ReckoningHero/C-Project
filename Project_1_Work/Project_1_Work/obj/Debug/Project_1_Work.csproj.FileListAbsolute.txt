@@ -1,0 +1,9 @@
+C:\Users\Joshua\Documents\Visual Studio 2013\Projects\Project_1_Work\Project_1_Work\bin\Debug\Project_1_Work.exe
+C:\Users\Joshua\Documents\Visual Studio 2013\Projects\Project_1_Work\Project_1_Work\bin\Debug\Project_1_Work.pdb
+C:\Users\Joshua\Documents\Visual Studio 2013\Projects\Project_1_Work\Project_1_Work\obj\Debug\Project_1_Work.Form1.resources
+C:\Users\Joshua\Documents\Visual Studio 2013\Projects\Project_1_Work\Project_1_Work\obj\Debug\Project_1_Work.Properties.Resources.resources
+C:\Users\Joshua\Documents\Visual Studio 2013\Projects\Project_1_Work\Project_1_Work\obj\Debug\Project_1_Work.csproj.GenerateResource.Cache
+C:\Users\Joshua\Documents\Visual Studio 2013\Projects\Project_1_Work\Project_1_Work\obj\Debug\Project_1_Work.exe
+C:\Users\Joshua\Documents\Visual Studio 2013\Projects\Project_1_Work\Project_1_Work\obj\Debug\Project_1_Work.pdb
+C:\Users\Joshua\Documents\Visual Studio 2013\Projects\Project_1_Work\Project_1_Work\obj\Debug\Project_1_Work.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Documents\Visual Studio 2013\Projects\Project_1_Work\Project_1_Work\obj\Debug\Project_1_Work.Main.resources
